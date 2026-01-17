@@ -9,7 +9,7 @@
 
 <div align="center">
 
-# ⚡ sujalchavdaa — Telegram OSINT Utility Bot
+# ⚡ 𓍯𝙎𝙪𝙟𝙖𝙡⚝  — Telegram OSINT Utility Bot
 
 ### 🕶️ Cyber UI • Inline Menu • Fast Public Recon • Deploy-ready (Docker/Render/Procfile)
 
@@ -27,7 +27,7 @@
 
 ---
 
-🌈✨🔥  𝗦𝗨𝗝𝗔𝗟𝗖𝗛𝗔𝗩𝗗𝗔𝗔 — 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗢𝗦𝗜𝗡𝗧 𝗨𝗜 𝗕𝗢𝗧  🔥✨🌈  
+🌈✨🔥  𓍯𝙎𝙪𝙟𝙖𝙡⚝  — 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗢𝗦𝗜𝗡𝗧 𝗨𝗜 𝗕𝗢𝗧  🔥✨🌈  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 💎 A **Cyber-Neon, Glass-Style, Premium UI Telegram Bot**  
